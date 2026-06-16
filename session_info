@@ -1,0 +1,56 @@
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26100)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.utf8
+[2] LC_CTYPE=English_United Kingdom.utf8
+[3] LC_MONETARY=English_United Kingdom.utf8
+[4] LC_NUMERIC=C
+[5] LC_TIME=English_United Kingdom.utf8
+
+time zone: America/Toronto
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base
+
+other attached packages:
+ [1] scales_1.4.0     ggforce_0.4.2    diagram_1.6.5    shape_1.4.6.1
+ [5] patchwork_1.3.0  ggnewscale_0.5.2 colorspace_2.1-1 ggsci_3.2.0
+ [9] fpc_2.2-14       FactoMineR_2.13  factoextra_1.0.7 cluster_2.1.8.2
+[13] car_3.1-3        carData_3.0-5    readr_2.1.5      lmerTest_3.1-3
+[17] cowplot_1.1.3    ggthemes_5.1.0   tidyr_1.3.2      zoo_1.8-12
+[21] nnet_7.3-19      lme4_1.1-35.5    Matrix_1.7-1     purrr_1.2.1
+[25] ggplot2_4.0.2    dplyr_1.2.0      MASS_7.3-61
+
+loaded via a namespace (and not attached):
+ [1] sandwich_3.1-1       rlang_1.1.7          magrittr_2.0.3
+ [4] multcomp_1.4-28      compiler_4.4.2       mgcv_1.9-1
+ [7] flexmix_2.3-19       systemfonts_1.1.0    vctrs_0.7.1
+[10] stringr_1.5.1        pkgconfig_2.0.3      fastmap_1.2.0
+[13] backports_1.5.0      labeling_0.4.3       utf8_1.2.4
+[16] tzdb_0.4.0           nloptr_2.1.1         ragg_1.3.3
+[19] modeltools_0.2-23    flashClust_1.01-2    tweenr_2.0.3
+[22] broom_1.0.7          parallel_4.4.2       prabclus_2.3-4
+[25] R6_2.5.1             stringi_1.8.4        RColorBrewer_1.1-3
+[28] boot_1.3-31          diptest_0.77-1       numDeriv_2016.8-1.1
+[31] estimability_1.5.1   Rcpp_1.0.13-1        splines_4.4.2
+[34] tidyselect_1.2.1     rstudioapi_0.17.1    abind_1.4-8
+[37] codetools_0.2-20     lattice_0.22-6       tibble_3.2.1
+[40] withr_3.0.2          S7_0.2.1             coda_0.19-4.1
+[43] survival_3.7-0       polyclip_1.10-7      mclust_6.1.1
+[46] kernlab_0.9-33       pillar_1.9.0         ggpubr_0.6.0
+[49] DT_0.33              stats4_4.4.2         generics_0.1.3
+[52] hms_1.1.3            minqa_1.2.8          xtable_1.8-4
+[55] leaps_3.2            class_7.3-22         glue_1.8.0
+[58] emmeans_1.10.6       scatterplot3d_0.3-44 tools_4.4.2
+[61] robustbase_0.99-4-1  ggsignif_0.6.4       mvtnorm_1.3-2
+[64] grid_4.4.2           nlme_3.1-166         Formula_1.2-5
+[67] cli_3.6.3            textshaping_0.4.1    fansi_1.0.6
+[70] viridisLite_0.4.2    gtable_0.3.6         DEoptimR_1.1-3-1
+[73] rstatix_0.7.2        digest_0.6.37        ggrepel_0.9.6
+[76] TH.data_1.1-3        htmlwidgets_1.6.4    farver_2.1.2
+[79] htmltools_0.5.8.1    lifecycle_1.0.5      multcompView_0.1-10
