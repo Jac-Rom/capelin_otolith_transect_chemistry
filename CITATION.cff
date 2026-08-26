@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=https://citation-file-format.github.io/1.2.0/schema.json
+cff-version: 1.2.0
+title: "Dominant migration strategies within the Gulf of St. Lawrence capelin stock inferred from otolith chemistry transects"
+abstract: >-
+  R code implementing the full analysis pipeline used to infer dominant
+  migration strategies of Gulf of St. Lawrence capelin from otolith
+  chemistry transects: QDA-based region assignment along each transect,
+  multi-resolution binning and sensitivity analyses on the transition
+  threshold, Multiple Correspondence Analysis (MCA) and k-means clustering
+  of individual migration histories, and comparison of resulting clusters
+  with trawl-survey fork-length distributions.
+type: software
+authors:
+  - given-names: "Romaric"
+    family-names: "Jac"
+    email: "romaric.jac@uqar.ca"
+    affiliation: " nstitut des sciences de la mer de Rimouski, Universit ́e du Québec à Rimouski, Rimouski, QC, Canadab ½ UMR DECOD (Ecosystem Dynamics and Sustainability), L’Institut Agro, Ifremer, INRAE, Rennes, France" 
+    # orcid: "https://orcid.org/0000-0002-7256-3473"
+  - given-names: "Olivier"
+    family-names: "Le Pape"
+  - given-names: "Elisabeth"
+    family-names: "van Beveren"
+  - given-names: "Mathieu"
+    family-names: "Boudreau"
+  - given-names: "Lola"
+    family-names: "Coussau"
+  - given-names: "Pascal"
+    family-names: "Sirois"
+  - given-names: "Dominique"
+    family-names: "Robert"
+  - given-names: "Pablo"
+    family-names: "Brosset"
+repository-code: "https://github.com/Jac-Rom/capelin_otolith_transect_chemistry"
+license: MIT
+version: "1.0.0"            
+date-released: "2026-08-26"
+keywords:
+  - otolith chemistry
+  - capelin
+  - migration
+  - Gulf of St. Lawrence
+  - LA-ICP-MS
+  - cluster analysis
+  - fish ecology
+preferred-citation:
+  type: article
+  title: "Dominant migration strategies within the Gulf of St. Lawrence capelin stock inferred from otolith chemistry transects"
+  authors:
+    - given-names: "Romaric"
+      family-names: "Jac"
+    - given-names: "Olivier"
+      family-names: "Le Pape"
+    - given-names: "Elisabeth"
+      family-names: "van Beveren"
+    - given-names: "Mathieu"
+      family-names: "Boudreau"
+    - given-names: "Lola"
+      family-names: "Coussau"
+    - given-names: "Pascal"
+      family-names: "Sirois"
+    - given-names: "Dominique"
+      family-names: "Robert"
+    - given-names: "Pablo"
+      family-names: "Brosset"
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences"
+  notes: "Small Pelagic Fish Symposium (SPF-2026) special issue"
