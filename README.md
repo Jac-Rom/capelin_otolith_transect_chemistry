@@ -9,7 +9,8 @@ output:
 
 *Canadian Journal of Fisheries and Aquatic Sciences* — Small Pelagic Fish Symposium (SPF-2026) special issue
 
-> DOI: *to be added upon publication*
+> DOI script: https://doi.org/10.5281/zenodo.22112402
+> DOI article: *to be added upon publication*
 
 ---
 
